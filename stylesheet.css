@@ -1,0 +1,71 @@
+#titulo {
+
+    font-size: 35px;
+    color: yellow;
+    font-weight: bold;
+
+}
+
+#texto {
+
+    color: yellow;
+}
+
+#divnom {
+
+    height: 70px;
+    width: 400px;
+    margin-bottom: 0px;
+}
+
+#divap {
+
+    height: 70px;
+    width: 400px;
+    margin-bottom: 0px;
+}
+
+#divus {
+
+    height: 70px;
+    width: 400px;
+    margin-bottom: 0px;
+}
+
+#divem {
+
+    height: 70px;
+    width: 400px;
+    margin-bottom: 0px;
+}
+
+#divcon {
+
+    height: 70px;
+    width: 400px;
+    margin-bottom: 0px;
+}
+
+#crear {
+
+    margin-top: 20px;
+    width: 475px;
+    font-weight: bold;
+}
+
+#info {
+
+    margin-top: 20px;
+    margin-bottom: 40px;
+    color: yellow;
+}
+
+#entrar {
+
+    font-weight: bold;
+}
+
+#register {
+
+    padding-top: 5px;
+}
